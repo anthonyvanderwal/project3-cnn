@@ -6,7 +6,7 @@
 
 ---
 ### Presentation
-- [pptx](./2021-02-27 -- anthony vanderwal - project 3 presentation - time series classification with cnn.pptx)
+- [pptx](./2021-02-27--anthonyvanderwal-project3-presentation-time-series-classification-with-cnn)
 - [pdf](./leafletEarthquakes/static/js/logic.js) app to render map.
 
 ---
