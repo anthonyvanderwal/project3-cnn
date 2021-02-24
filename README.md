@@ -12,6 +12,6 @@
 ---
 ### Screenshot
 <kbd><img style="margin-left:0px;border:0px solid blue;" 
-     height='300' title="earthquakes"
-     src="./eurusd_hour_predict_slopes.png" /></kbd>
+     height='300' title="prediction"
+     src="./analysis/eurusd_hour_predict_slopes.png" /></kbd>
 
