@@ -10,8 +10,8 @@
 - [pdf](./2021-02-27--anthonyvanderwal-project3-presentation-time-series-classification-with-cnn.pdf)
 
 ---
-### Screenshots
+### Screenshot
 <kbd><img style="margin-left:0px;border:0px solid blue;" 
      height='300' title="earthquakes"
-     src="./leafletEarthquakes/static/img/leaflet-earthquakes.png" /></kbd>
+     src="./eurusd_hour_predict_slopes.png" /></kbd>
 
